@@ -51,7 +51,7 @@ public class MainActivity extends Activity {
 		txtName.setText(name);
 		txtEmail.setText(email);
 
-		// Logout button click event
+//		 Logout button click event
 		btnLogout.setOnClickListener(new View.OnClickListener() {
 
 			@Override

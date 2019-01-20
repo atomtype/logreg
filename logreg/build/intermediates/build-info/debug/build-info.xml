@@ -2,13 +2,13 @@
 <instant-run
     abi="arm64-v8a,armeabi-v7a,armeabi"
     api-level="27"
-    build-mode="HOT_WARM"
+    build-mode="COLD"
     density="xxhdpi"
     format="10"
     plugin-version="3.3.0"
-    timestamp="1547828223282"
+    timestamp="1548001057936"
     token="8372950364438860137"
-    verifier="NO_CHANGES" >
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
@@ -23,42 +23,46 @@
         name="verifier"
         duration="0" />
 
+    <artifact
+        location="/home/atom/AndroidStudioProjects/Test/logreg/build/intermediates/resources/instant-run/debug/resources-debug.apk"
+        type="SPLIT" />
+
     <build
         build-mode="FULL"
-        timestamp="1547828029467"
+        timestamp="1548000807816"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/home/atom/AndroidStudioProjects/Test/logreg/build/intermediates/resources/instant-run/debug/resources-debug.apk"
             type="SPLIT" />
         <artifact
-            location="/home/atom/AndroidStudioProjects/Test/logreg/build/intermediates/split-apk/debug/dep/dependencies.apk"
-            type="SPLIT" />
-        <artifact
             location="/home/atom/AndroidStudioProjects/Test/logreg/build/intermediates/split-apk/debug/slices/slice_2.apk"
             type="SPLIT" />
         <artifact
-            location="/home/atom/AndroidStudioProjects/Test/logreg/build/intermediates/split-apk/debug/slices/slice_0.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/atom/AndroidStudioProjects/Test/logreg/build/intermediates/split-apk/debug/slices/slice_1.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/atom/AndroidStudioProjects/Test/logreg/build/intermediates/split-apk/debug/slices/slice_5.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/atom/AndroidStudioProjects/Test/logreg/build/intermediates/split-apk/debug/slices/slice_3.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/atom/AndroidStudioProjects/Test/logreg/build/intermediates/split-apk/debug/slices/slice_4.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/atom/AndroidStudioProjects/Test/logreg/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            location="/home/atom/AndroidStudioProjects/Test/logreg/build/intermediates/split-apk/debug/slices/slice_7.apk"
             type="SPLIT" />
         <artifact
             location="/home/atom/AndroidStudioProjects/Test/logreg/build/intermediates/split-apk/debug/slices/slice_8.apk"
             type="SPLIT" />
         <artifact
-            location="/home/atom/AndroidStudioProjects/Test/logreg/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            location="/home/atom/AndroidStudioProjects/Test/logreg/build/intermediates/split-apk/debug/dep/dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/atom/AndroidStudioProjects/Test/logreg/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/atom/AndroidStudioProjects/Test/logreg/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/atom/AndroidStudioProjects/Test/logreg/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/atom/AndroidStudioProjects/Test/logreg/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/atom/AndroidStudioProjects/Test/logreg/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/atom/AndroidStudioProjects/Test/logreg/build/intermediates/split-apk/debug/slices/slice_0.apk"
             type="SPLIT" />
         <artifact
             location="/home/atom/AndroidStudioProjects/Test/logreg/build/intermediates/split-apk/debug/slices/slice_9.apk"
@@ -68,8 +72,12 @@
             type="SPLIT_MAIN" />
     </build>
     <build
-        build-mode="HOT_WARM"
-        timestamp="1547828223282"
-        verifier="NO_CHANGES" />
+        build-mode="COLD"
+        timestamp="1548001057936"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/home/atom/AndroidStudioProjects/Test/logreg/build/intermediates/resources/instant-run/debug/resources-debug.apk"
+            type="SPLIT" />
+    </build>
 
 </instant-run>

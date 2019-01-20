@@ -1,4 +1,4 @@
-#Fri Jan 18 21:44:20 IST 2019
+#Sun Jan 20 17:02:15 IST 2019
 base.0=/home/atom/AndroidStudioProjects/Test/logreg/build/intermediates/transforms/dexMerger/debug/10
 path.0=classes.dex
 renamed.0=classes.dex
